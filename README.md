@@ -7,4 +7,5 @@ HousingDataCleaning shows how I performed data cleaning on the Nashville housing
 
 Links to datasets:
 COVID: https://ourworldindata.org/covid-deaths
+
 Nashville Housing: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
